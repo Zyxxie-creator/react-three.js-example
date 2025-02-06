@@ -24,7 +24,7 @@ This repository explores the integration of 3D graphics into React applications.
 ### Installation
 
 1. Clone the repository:
- -  `git clone https://github.com/your-username/react-3d-graphics.git`
+ -  `git clone https://github.com/Zyxxie-creator/react-3d-graphics.git`
 2. Install dependencies:
 - `cd react-3d-graphics`
 - `npm install`
